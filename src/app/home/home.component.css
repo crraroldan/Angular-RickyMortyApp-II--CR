@@ -1,0 +1,7 @@
+.Contendor{
+    background-color: blue;
+    height: 40vh;
+    display: flex;
+    flex-direction: row;
+
+}
